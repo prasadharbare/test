@@ -1,0 +1,9 @@
+@font-face {
+    font-family: tom;
+    src: url(MercyChristole.ttf);
+}
+
+body{
+    background-color: #ea00ff;
+    font-family: tom, sans-serif;
+}
