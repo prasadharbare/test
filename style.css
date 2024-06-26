@@ -1,9 +1,17 @@
-@font-face {
-    font-family: tom;
-    src: url(MercyChristole.ttf);
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/936/891/large_2x/a-bundle-of-different-weapons-vector.jpg");
+ color: black;
 }
 
-body{
-    background-color: #ea00ff;
-    font-family: tom, sans-serif;
+.box{
+    height:800px;
+    width:500px;
+    border: 500px black;
+    margin:100px;
+    padding:30px;
+    background-image: url("https://wallpapers.com/images/hd/indian-army-logo-pixelated-camouflage-background-7lx89drkqj644kom.jpg");
+    background-size: cover;
+    color: orange;
+    
+
 }
